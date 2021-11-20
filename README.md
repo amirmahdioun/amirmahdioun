@@ -1,7 +1,10 @@
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=amirmahdioun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/amirmahdioun)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdioun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/amirmahdioun)
 
 
+## Contact me
+<a href="https://t.me/amir_spain" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="24"/></a>
 
 
 
