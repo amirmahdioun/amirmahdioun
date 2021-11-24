@@ -6,15 +6,11 @@ A Front-end developer from Iran.
 <br>
 Master of chemistry and interested on aviation
 
-
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amir+hossein+Mahdioun+....;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1>
-
 
 <!-- [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=amirmahdioun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/amirmahdioun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdioun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/amirmahdioun) -->
@@ -22,20 +18,19 @@ Master of chemistry and interested on aviation
 <a href="https://github.com/amirmahdioun">
   <img align="left" width="41%" src="https://github-readme-stats.vercel.app/api?username=amirmahdioun&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </a>
+
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdioun&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 
 
-
-
-<img src="https://activity-graph.herokuapp.com/graph?username=amirmahdioun&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-    
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=amirmahdioun&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->  
 <!-- 
 <img alt="GitHub Stats" align="top" width="50%"
     src="https://github-readme-stats.vercel.app/api?username=amirmahdioun&theme=dracula" />
   <img alt="Top Language" align="center" width="29%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdioun&langs_count=4&theme=dracula" /> -->
     
+<br><br><br><br><br><br><br>
+
 ### Languages and tools
 <p align="center">
   <a target="_blank" href="https://javascript.info/"><img
