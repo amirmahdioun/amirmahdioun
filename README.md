@@ -4,7 +4,7 @@
 
 A Front-end developer from Iran.
 <br>
-Master of chemistry and interested on aviation
+Master of physical chemistry and interested on aviation
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
