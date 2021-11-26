@@ -29,8 +29,6 @@ Master of physical chemistry and interested on aviation
   <img alt="Top Language" align="center" width="29%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdioun&langs_count=4&theme=dracula" /> -->
     
- <br><br><br><br><br><br><br><br><br>
-<img src="https://github.com/amirmahdioun/amirmahdioun/blob/master/images/codeStats.svg" alt="WAKA time "/>
 
 <br><br><br><br><br><br><br>
 
