@@ -77,7 +77,6 @@ Master of physical chemistry and interested on aviation
 
 [![Instagram Badge](https://img.shields.io/badge/-@amir_spain-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/amir_spain/)](https://instagram.com/amir_spain)
 [![Telegram Badge](https://img.shields.io/badge/-@amir_spain-blue?style=flat&logo=telegram&logoColor=white&link=https://www.telegram.me/amir_spain)](https://www.telegram.me/amir_spain)
-[![linkdin Badge](https://img.shields.io/badge/-@amir_spain-blue?style=flat&logo=linkdin&logoColor=white&link=https://www.telegram.me/amir_spain)](https://www.telegram.me/amir_spain)
 
 <!-- End of contact me -->
 
