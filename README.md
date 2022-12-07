@@ -1,10 +1,10 @@
-<img align="left" width="150" height="150" alt="Amir hossein Mahdioun" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
+<!-- <img align="left" width="150" height="150" alt="Amir hossein Mahdioun" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/> -->
 
 ### I'm Amir hossein Mahdioun
 <!-- Description -->
 A Front-end developer from Iran.
 <br>
-Master of physical chemistry and interested on aviation
+Bachelor of chemistry and interested on aviation
 <!-- End of description -->
 
 <!-- Hello world animation -->
